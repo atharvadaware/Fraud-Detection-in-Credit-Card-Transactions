@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection Project Report
 
-## 1. Introduction
+## 1. Introduction 
 
 This project aimed to develop a system for detecting fraudulent credit card transactions. Given the increasing prevalence of online transactions, robust fraud detection is crucial. The project explored both unsupervised anomaly detection techniques and a supervised classification approach to address the challenge of identifying fraudulent transactions from a highly imbalanced dataset.
 
